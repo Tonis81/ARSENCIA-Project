@@ -22,11 +22,11 @@ https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105
 
 <br/>
 
-![Screenshot 2021-08-25 at 07.35.57](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.35.57.png)
+![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.35.57.png)
 
 
 
-![Screenshot 2021-08-25 at 07.36.08](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.36.08.png)
+![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.36.08.png)
 
 ---
 
@@ -50,9 +50,9 @@ https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-159
 
 <br/>
 
-![Screenshot 2021-08-25 at 07.33.56](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.33.56.png)
+![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.33.56.png)
 
-![Screenshot 2021-08-25 at 07.34.08](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.34.08.png)
+![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.34.08.png)
 
 ---
 

@@ -58,6 +58,16 @@
 
 ---
 
+# <span style="color:red">**June 2021**</span>
+
+Urine sample cataloguing and preparation for analysis
+
+<img src="Urine sample_1.jpeg" style="zoom:100%;" />
+
+
+
+<img src="Urine sample_2.jpeg" style="zoom:100%;" />
+
 # <span style="color:red">**May 2021**</span>
 
 <br/>

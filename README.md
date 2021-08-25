@@ -22,11 +22,7 @@ https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105
 
 <br/>
 
-![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.35.57.png)
 
-
-
-![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.36.08.png)
 
 ---
 
@@ -49,10 +45,6 @@ https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105
 https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-159
 
 <br/>
-
-![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.33.56.png)
-
-![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.34.08.png)
 
 ---
 
@@ -78,8 +70,9 @@ Environment International, Volume 155, 2021, 106673, ISSN 0160-4120,
 
 <br/>
 
-https://doi.org/10.1016/j.envint.2021.106673.
-(https://www.sciencedirect.com/science/article/pii/S0160412021002981)
+[doi](https://doi.org/10.1016/j.envint.2021.106673); [web](https://www.sciencedirect.com/science/article/pii/S0160412021002981)
+
+<br/>
 
 ---
 

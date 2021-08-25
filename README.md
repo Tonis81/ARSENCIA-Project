@@ -2,7 +2,11 @@
 
 
 
-# Abstract presentation [ISEE](https://www.isee2021.org/). Prenatal exposure to metal mixtures and lung function in children from the New Hampshire Birth Cohort Study
+# August 2021
+
+
+
+## Abstract presentation [ISEE](https://www.isee2021.org/). Prenatal exposure to metal mixtures and lung function in children from the New Hampshire Birth Cohort Study
 
 <br/>
 
@@ -24,9 +28,7 @@ https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105
 
 
 
----
-
-# Abstract presentation [ISEE](https://www.isee2021.org/). Dietary exposure to metal mixtures throughout infants' first year of life in the New Hampshire Birth Cohort Study
+## Abstract presentation [ISEE](https://www.isee2021.org/). Dietary exposure to metal mixtures throughout infants' first year of life in the New Hampshire Birth Cohort Study
 
 <br/>
 
@@ -48,7 +50,9 @@ https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-159
 
 ---
 
-# Publication: Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study
+# May 2021
+
+## Publication: Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study
 
 <br/>
 
@@ -74,11 +78,9 @@ Environment International, Volume 155, 2021, 106673, ISSN 0160-4120,
 
 <br/>
 
----
+# April 2021
 
-
-
-# **Title**: Exposure to arsenic in the presence of other metals, metabolism and health effects in childhood and adolescence (ARSENCIA)
+## **Title**: Exposure to arsenic in the presence of other metals, metabolism and health effects in childhood and adolescence (ARSENCIA)
 
 
 

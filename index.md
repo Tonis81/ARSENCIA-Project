@@ -26,7 +26,11 @@
 
 <br/>
 
+<img src="P105.png" style="zoom:100%;" />
 
+<img src="P105_2.png" style="zoom:100%;" />
+
+---
 
 ## Abstract presentation [ISEE](https://www.isee2021.org/). Dietary exposure to metal mixtures throughout infants' first year of life in the New Hampshire Birth Cohort Study
 
@@ -48,9 +52,9 @@
 
 <br/>
 
-<img src="P159.png" style="zoom:50%;" />
+<img src="P159.png" style="zoom:100%;" />
 
-
+<img src="P159_2.png" style="zoom:100%;" />
 
 ---
 

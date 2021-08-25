@@ -2,7 +2,9 @@
 
 
 
-# <span style="color:red">**August 2021**</span>
+<br/>
+
+# <span style="color:red">**August 2021**</span> [5]
 
 <br/>
 
@@ -58,17 +60,35 @@
 
 ---
 
-# <span style="color:red">**June 2021**</span>
+<br/>
+
+# <span style="color:red">**July 2021**</span> [4]
+
+New ICP-MS set up.
+
+<img src="New ICP-MS.jpg" style="zoom:80%;" />
+
+<br/>
+
+# <span style="color:red">**June 2021**</span> [3]
 
 Urine sample cataloguing and preparation for analysis
 
-<img src="Urine sample_1.jpeg" style="zoom:100%;" />
+```
+Urine sample 1            |  Urine sample 2
+:-------------------------:|:-------------------------:
+<img src="Urine sample_1.jpeg" style="zoom:80%;" />  |  <img src="Urine sample_2.jpeg" style="zoom:80%;" />
+```
 
 
 
-<img src="Urine sample_2.jpeg" style="zoom:100%;" />
 
-# <span style="color:red">**May 2021**</span>
+
+
+
+<br/>
+
+# <span style="color:red">**May 2021**</span> [2]
 
 <br/>
 
@@ -98,7 +118,7 @@ Environment International, Volume 155, 2021, 106673, ISSN 0160-4120,
 
 <br/>
 
-# <span style="color:red">**April 2021**</span>
+# <span style="color:red">**April 2021**</span> [1]
 
 <br/>
 

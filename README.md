@@ -2,7 +2,7 @@
 
 
 
-# **<u>*Publication*</u>**: Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study
+# Publication: Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study
 
 **Antonio J. Signes-Pastor**, Pablo Martinez-Camblor, Emily Baker, Juliette Madan, Margaret F. Guill, Margaret R. Karagas,
 

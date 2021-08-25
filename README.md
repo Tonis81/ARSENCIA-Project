@@ -82,6 +82,8 @@ Environment International, Volume 155, 2021, 106673, ISSN 0160-4120,
 
 
 
+Photo
+
 ![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221a - TB - Urine Sample analysis INMA_191217_1/Urine samples processing/Urine sampes QUB - Catalogue/1. 21_June_2021/Unknown-5.jpeg)
 
 # <span style="color:red">**April 2021**</span>

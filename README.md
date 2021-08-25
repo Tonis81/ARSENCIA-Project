@@ -22,7 +22,7 @@
 
 <br/>
 
-https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105
+[web](https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105)
 
 <br/>
 
@@ -44,7 +44,7 @@ https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105
 
 <br/>
 
-https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-159
+[web](https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-159)
 
 <br/>
 

@@ -74,18 +74,9 @@ New ICP-MS set up.
 
 Urine sample cataloguing and preparation for analysis
 
-<img src="Urine sample_1.jpeg" style="zoom:80%;" />
-
-<img src="Urine sample_2.jpeg" style="zoom:80%;" />
+<img src="Urine sample_1.jpeg" style="zoom:80%;" /> <img src="Urine sample_2.jpeg" style="zoom:80%;" />
 
 
-
-```html
-<p float="left">
-  <img src="Urine sample_1.jpeg" style="zoom:80%;" />
-  <img src="Urine sample_2.jpeg" style="zoom:80%;" />
-</p>
-```
 
 <br/>
 

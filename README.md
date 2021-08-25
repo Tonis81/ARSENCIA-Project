@@ -2,7 +2,63 @@
 
 
 
+# Abstract presentation [ISEE](https://www.isee2021.org/). Prenatal exposure to metal mixtures and lung function in children from the New Hampshire Birth Cohort Study
+
+<br/>
+
+**Antonio Jose Signes Pastor**,  Jesús Vioque, Margaret Guill, Juliette Madan, Emily Baker, Brian Jackson, and Margaret R. Karagas
+
+<br/>
+
+<span style="color:blue">**Prenatal exposure to metal mixtures and lung function in children from the New Hampshire Birth Cohort Study**</span>
+
+<br/>
+
+**Abstract**. BACKGROUND AND AIM: Prenatal environmental exposure to metals and metalloids (referred to as “metals”) has been associated with childhood lung development, but limited data exist on metal mixtures. We aimed to investigate the association between gestational exposure to metal mixtures and childhood lung function among 267 maternal-child dyads from the New Hampshire Birth Cohort Study. METHODS: Maternal ~24-28-week gestational urinary arsenic speciation, aluminum, cadmium, cobalt, chromium, copper, iron, mercury, manganese, molybdenum, nickel, tin, lead, antimony, selenium, thallium, uranium, vanadium and zinc concentration were assessed using inductively coupled plasma mass spectroscopy (ICP-MS). Forced vital capacity (FVC), forced expiratory volume in the first second of exhalation (FEV1), and forced expiratory flow between 25% and 75% of FVC (FEF25-75) standardized z-scores were obtained at a median age of 7.4 years. We used quantile g-computation for each outcome and urinary metals adjusted for maternal smoking status, children’s age, sex and height. RESULTS:Urinary concentrations of cobalt, lead, nickel, cadmium, and chromium were inversely associated with lung function z-scores. Arsenic concentrations were inverse associated specifically with FVC and FEV1 z-scores. In contrast, lung function z-scores increased with vanadium, molybdenum, and thallium urine concentrations. CONCLUSIONS:Our findings suggest that prenatal exposure to metal mixtures impact lung function, with varying direction and magnitudes of effects. KEYWORDS: mixture, heavy metals, children’s environmental health, respiratory outcomes, biomarkers of exposure
+
+<br/>
+
+https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105
+
+<br/>
+
+![Screenshot 2021-08-25 at 07.35.57](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.35.57.png)
+
+
+
+![Screenshot 2021-08-25 at 07.36.08](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.36.08.png)
+
+---
+
+# Abstract presentation [ISEE](https://www.isee2021.org/). Dietary exposure to metal mixtures throughout infants' first year of life in the New Hampshire Birth Cohort Study
+
+<br/>
+
+**Antonio Jose Signes Pastor**,  Brian Jackson, Kathryn L. Cottingham, and Margaret R. Karagas.
+
+<br/>
+
+<span style="color:blue">**Dietary exposure to metal mixtures throughout infants' first year of life in the New Hampshire Birth Cohort Study**</span>
+
+<br/>
+
+**Abstract**. BACKGROUND AND AIM: Recent reports have raised concerns about infants’ exposure to metals and metalloids (here, “metals”) via their first solid foods. Although early exposure to metals may cause lifelong health effects, epidemiologic studies on infants' dietary exposure to metal mixtures are still scarce. We aimed to assess the impact of diet on urinary metal concentrations over the first year of life among 348 children from the New Hampshire Birth Cohort Study. METHODS: We used inductively coupled plasma mass spectroscopy (ICP-MS) to measure infant urinary arsenic speciation, cadmium, cobalt, chromium, copper, iron, mercury, manganese, molybdenum, lead, antimony, selenium, uranium, vanadium and zinc concentrations. Caregivers completed a 3-day food diary before infant urine collection at 6 weeks and 4, 6, and 12 months of age. RESULTS:We determined the weights of each metal and the impact of the mixture at 6 weeks and 12 months of age. Using quantile g-computation we found that urinary concentration of arsenic, molybdenum and cobalt increased from ~6 weeks to 12 months of age, and that urinary selenium and copper decreased. We observed similar findings in a subset of infants (n = 19) during weaning from 4 to 6 months of age. We are now focusing on identifying specific groups of foods responsible for these changes. CONCLUSIONS:Determining dietary contributors to infants’ exposure to potential harmful metals is a critical step in preventing their long-term consequences. KEYWORDS: mixture, heavy metals, food, biomarkers of exposure
+
+<br/>
+
+https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-159
+
+<br/>
+
+![Screenshot 2021-08-25 at 07.33.56](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.33.56.png)
+
+![Screenshot 2021-08-25 at 07.34.08](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/figures and photos/Screenshot 2021-08-25 at 07.34.08.png)
+
+---
+
 # Publication: Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study
+
+<br/>
 
 **Antonio J. Signes-Pastor**, Pablo Martinez-Camblor, Emily Baker, Juliette Madan, Margaret F. Guill, Margaret R. Karagas,
 

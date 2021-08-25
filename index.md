@@ -48,6 +48,8 @@
 
 <br/>
 
+![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221 - TB - ARSENCIA/WEB-GitHub/ARSENCIA-Project/Screenshot 2021-08-25 at 07.33.56.png)
+
 ---
 
 # <span style="color:red">**May 2021**</span>
@@ -79,12 +81,6 @@ Environment International, Volume 155, 2021, 106673, ISSN 0160-4120,
 [doi](https://doi.org/10.1016/j.envint.2021.106673); [web](https://www.sciencedirect.com/science/article/pii/S0160412021002981)
 
 <br/>
-
-
-
-Photo
-
-![](/Users/tonisignes/Desktop/Drive UMH/B. Projects TB/PR221a - TB - Urine Sample analysis INMA_191217_1/Urine samples processing/Urine sampes QUB - Catalogue/1. 21_June_2021/Unknown-5.jpeg)
 
 # <span style="color:red">**April 2021**</span>
 

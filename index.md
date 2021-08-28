@@ -12,7 +12,7 @@
 
 <img src="Myself in paddy.JPG" style="zoom:80%;" />
 
-> Paddy field soil sample collection. 
+> Paddy field soil sample collection. Supporting collegues' research project. The beginning of a new research proposal. 
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-[web](https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105)
+[abstract](https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-105)
 
 <br/>
 
@@ -58,7 +58,7 @@
 
 <br/>
 
-[web](https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-159)
+[Abstract](https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.P-159)
 
 <br/>
 

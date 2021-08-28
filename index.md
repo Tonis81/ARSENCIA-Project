@@ -10,9 +10,30 @@
 
 <br/>
 
-**Table of content:**
+# <span style="color:blue">**Table of content:**</span>
 
-[toc]
+**August 2021 [4]**
+
+* Paddy field sampling.
+
+* Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_01
+* Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_02
+
+**July 2021 [4]**
+
+* Laboratory equipment set up
+
+**June 2021 [3]**
+
+* Sample preparation
+
+**May 2021 [2]**
+
+* Publication
+
+**April 2021 [1]**
+
+* Start of the project
 
 <br/>
 
@@ -84,7 +105,7 @@
 
 # <span style="color:red">**July 2021**</span> [4]
 
-New ICP-MS set up.
+## New ICP-MS set up.
 
 <img src="New ICP-MS.jpg" style="zoom:80%;" />
 
@@ -92,11 +113,11 @@ New ICP-MS set up.
 
 # <span style="color:red">**June 2021**</span> [3]
 
-Urine sample cataloguing and preparation for analysis
+## Urine sample cataloguing and preparation for analysis
 
 <img src="Urine sample_1.jpeg" style="zoom:80%;" /> <img src="Urine sample_2.jpeg" style="zoom:80%;" />
 
-
+> Processing INMA urine samples to determine bulk metals analysis and arsenic speciation. 
 
 <br/>
 

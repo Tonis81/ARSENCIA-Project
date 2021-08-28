@@ -1,4 +1,4 @@
-# **<span style="color:green">Research Project</span>**
+<br/>
 
 <img src="title.jpg" style="zoom:100%;" />
 

@@ -10,10 +10,6 @@
 
 ---
 
----
-
----
-
 <br/>
 
 # <span style="color:red">**August 2021**</span> [5]

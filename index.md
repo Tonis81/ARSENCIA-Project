@@ -8,6 +8,14 @@
 
 <br/>
 
+## Paddy field sample collection
+
+<img src="Myself in paddy.JPG" style="zoom:80%;" />
+
+> Paddy field soil sample collection. 
+
+<br/>
+
 ## Abstract presentation [ISEE](https://www.isee2021.org/). Prenatal exposure to metal mixtures and lung function in children from the New Hampshire Birth Cohort Study
 
 <br/>
@@ -115,10 +123,6 @@ Environment International, Volume 155, 2021, 106673, ISSN 0160-4120,
 <br/>
 
 ## **Title**: Exposure to arsenic in the presence of other metals, metabolism and health effects in childhood and adolescence (ARSENCIA)
-
-
-
-
 
 
 

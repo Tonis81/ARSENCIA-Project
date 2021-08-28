@@ -12,7 +12,7 @@
 
 <img src="Myself in paddy.JPG" style="zoom:80%;" />
 
-> Paddy field soil sample collection. Supporting collegues' research project. The beginning of a new research proposal. 
+> Paddy field soil sample collection. Supporting colleagues’ research project. The beginning of a new research proposal.
 
 <br/>
 

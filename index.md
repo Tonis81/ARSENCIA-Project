@@ -45,9 +45,11 @@
 
 ## Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
 
+<br/>
+
 <img src="SEE.JPG" style="zoom:80%;" />
 
-
+<br/>
 
 <img src="SEE photo1.JPG" style="zoom:25%;" /> <img src="SEE photo2.JPG" style="zoom:25%;" />
 

@@ -47,15 +47,13 @@
 
 <br/>
 
-<img src="SEE Photo_0.jpg" style="zoom:80%;" />
+<img src="SEE Photo_0.jpg" style="zoom:100%;" />
 
 [SEE-León](https://www.reunionanualsee.org/)
 
 <br/>
 
 <img src="SEE photo1.JPG" style="zoom:29%;" /> <img src="SEE photo2.JPG" style="zoom:25%;" />
-
-
 
 <br/>
 

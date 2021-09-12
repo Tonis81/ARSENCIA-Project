@@ -51,7 +51,7 @@
 
 <br/>
 
-<img src="SEE photo1.JPG" style="zoom:25%;" /> <img src="SEE photo2.JPG" style="zoom:25%;" />
+<img src="SEE photo1.JPG" style="zoom:29%;" /> <img src="SEE photo2.JPG" style="zoom:25%;" />
 
 
 

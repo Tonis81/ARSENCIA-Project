@@ -12,9 +12,13 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
-**August 2021 [4]**
+**September 2021 [6]**
 
-* Paddy field sampling.
+* Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
+
+**August 2021 [5]**
+
+* Paddy field sampling
 
 * Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_01
 * Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_02
@@ -34,6 +38,20 @@
 **April 2021 [1]**
 
 * Start of the project
+
+<br/>
+
+# <span style="color:red">**September 2021**</span> [5]
+
+## Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
+
+<img src="SEE.JPG" style="zoom:80%;" />
+
+
+
+<img src="SEE photo1.JPG" style="zoom:25%;" /> <img src="SEE photo2.JPG" style="zoom:25%;" />
+
+
 
 <br/>
 

@@ -47,7 +47,7 @@
 
 <br/>
 
-<img src="SEE.JPG" style="zoom:80%;" />
+<img src="SEE Photo_0.jpg" style="zoom:80%;" />
 
 [SEE-León](https://www.reunionanualsee.org/)
 

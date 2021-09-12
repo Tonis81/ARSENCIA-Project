@@ -41,7 +41,7 @@
 
 <br/>
 
-# <span style="color:red">**September 2021**</span> [5]
+# <span style="color:red">**September 2021**</span> [6]
 
 ## Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
 

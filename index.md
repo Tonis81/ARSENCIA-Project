@@ -54,7 +54,7 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 <br/>
 
-<img src="ValER_1.JPG" style="zoom:10%;" /><img src="ValER_2.JPG" style="zoom:10%;" /><img src="ValER_3.JPG" style="zoom:10%;" /><img src="ValER_4.JPG" style="zoom:10%;" /><img src="ValER_5.JPG" style="zoom:10%;" />
+<img src="ValER_1.JPG" style="zoom:30%;" /><img src="ValER_2.JPG" style="zoom:30%;" /><img src="ValER_3.JPG" style="zoom:30%;" /><img src="ValER_4.JPG" style="zoom:30%;" /><img src="ValER_5.JPG" style="zoom:300%;" />
 
 <br/>
 

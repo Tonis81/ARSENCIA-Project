@@ -15,6 +15,8 @@
 **September 2021 [6]**
 
 * Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
+* ERC "Reading day" - Campus de Espinardo - Universidad de Murcia. 17 September 2021
+* Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER". 22 September 2021
 
 **August 2021 [5]**
 
@@ -43,7 +45,37 @@
 
 # <span style="color:red">**September 2021**</span> [6]
 
-## Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
+
+
+# Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER"
+
+<br/>
+
+It has been a great pleasure to attend the presentation of ValER by the President of the Valencian Community, meet colleagues of the PlanGent and others. I am also very proud of having a picture of myself with Prof. Angel Carbonell, the director of Science and Research in the Valencian Community.  
+
+<br/>
+
+<img src="ValER_1.jpg" style="zoom:10%;" /><img src="ValER_2.jpg" style="zoom:10%;" /><img src="ValER_3.jpg" style="zoom:10%;" /><img src="ValER_4.jpg" style="zoom:10%;" /><img src="ValER_5.jpg" style="zoom:10%;" />
+
+<br/>
+
+
+
+# ERC "Reading day" - Campus de Espinardo - Universidad de Murcia
+
+## Castelló, 17 September 2021
+
+<br/>
+
+<img src="Reading day.jpg" style="zoom:50%;" />
+
+
+
+<br/>
+
+## Reunión anual de la Sociedad Española de Epidemiología - 
+
+## León, 7 al 10 de Septiembre 2021
 
 <br/>
 

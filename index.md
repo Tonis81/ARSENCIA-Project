@@ -61,7 +61,9 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 
 
-# ERC "Reading day" - Campus de Espinardo - Universidad de Murcia. 
+# ERC "Reading day" - Campus de Espinardo - Universidad de Murcia
+
+## Castelló, 17 September 2021
 
 <br/>
 
@@ -71,7 +73,9 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 <br/>
 
-## Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
+## Reunión anual de la Sociedad Española de Epidemiología - 
+
+## León, 7 al 10 de Septiembre 2021
 
 <br/>
 

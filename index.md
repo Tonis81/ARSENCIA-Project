@@ -71,7 +71,7 @@
 
 <br/>
 
-## Sep_1: Related new. Arsenic levels baby food USA.
+## Sep_1: Related news. Arsenic levels baby food USA.
 
 
 

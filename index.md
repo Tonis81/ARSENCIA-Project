@@ -77,19 +77,27 @@
 
 <img src="HR_Sep21.png" style="zoom:80%;" />
 
-https://oversight.house.gov/sites/democrats.oversight.house.gov/files/ECP%20Second%20Baby%20Food%20Report%209.29.21%20FINAL.pdf
+[Access information](https://oversight.house.gov/sites/democrats.oversight.house.gov/files/ECP%20Second%20Baby%20Food%20Report%209.29.21%20FINAL.pdf)
 
 <br/>
 
 <img src="cbs video.png" style="zoom:80%;" />
 
-https://www.cbsnews.com/video/new-report-finds-high-levels-of-toxic-heavy-metals-in-baby-food/?utm_source=dlvr.it&utm_medium=twitter#x
+[Access information](https://www.cbsnews.com/video/new-report-finds-high-levels-of-toxic-heavy-metals-in-baby-food/?utm_source=dlvr.it&utm_medium=twitter#x)
 
 <br/>
 
 <img src="CNN rice.png" style="zoom:80%;" />
 
-https://edition.cnn.com/2020/08/06/health/arsenic-infant-rice-cereal-fda-wellness/index.html
+[Access information](https://edition.cnn.com/2020/08/06/health/arsenic-infant-rice-cereal-fda-wellness/index.html)
+
+<br/>
+
+
+
+<img src="CNN_news.png" style="zoom:80%;" />
+
+[Access information](https://edition.cnn.com/2021/09/29/health/baby-food-toxins-update-wellness/index.html)
 
 <br/>
 

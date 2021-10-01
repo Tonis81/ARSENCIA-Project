@@ -12,9 +12,9 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
-**October 2021 [7]**
+<span style="color:blue">**October 2021 [7]**</span>
 
-**September 2021 [6]**
+<span style="color:blue">**September 2021 [6]**</span>
 
 - **Sep_1:** Related news. Arsenic levels baby food USA.
 
@@ -24,26 +24,26 @@
 
 * **Sep_4**: Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
 
-**August 2021 [5]**
+<span style="color:blue">**August 2021 [5]**</span>
 
 * **Aug_1**: Paddy field sampling
 
 * **Aug_2**: Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_01
 * **Aug_3**: Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_02
 
-**July 2021 [4]**
+<span style="color:blue">**July 2021 [4]**</span>
 
 * **Jul_1**: Laboratory equipment set up
 
-**June 2021 [3]**
+<span style="color:blue">**June 2021 [3]**</span>
 
 * **Jun_1**: Sample preparation
 
-**May 2021 [2]**
+<span style="color:blue">**May 2021 [2]**</span>
 
 * **May_1**: Publication
 
-**April 2021 [1]**
+<span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
 

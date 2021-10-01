@@ -12,11 +12,17 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+**October 2021 [7]**
+
 **September 2021 [6]**
 
+- Related news. Arsenic levels baby food USA.
+
+- Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER". 22 September 2021
+
+- ERC "Reading day" - Campus de Espinardo - Universidad de Murcia. 17 September 2021
+
 * Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
-* ERC "Reading day" - Campus de Espinardo - Universidad de Murcia. 17 September 2021
-* Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER". 22 September 2021
 
 **August 2021 [5]**
 
@@ -43,9 +49,43 @@
 
 <br/>
 
+
+
+# <span style="color:red">**October 2021**</span> [6]
+
+
+
+
+
+
+
 # <span style="color:red">**September 2021**</span> [6]
 
 
+
+<br/>
+
+## Related new. Arsenic levels baby food USA.
+
+
+
+<img src="HR_Sep21.png" style="zoom:80%;" />
+
+https://oversight.house.gov/sites/democrats.oversight.house.gov/files/ECP%20Second%20Baby%20Food%20Report%209.29.21%20FINAL.pdf
+
+<br/>
+
+<img src="cbs video.png" style="zoom:80%;" />
+
+https://www.cbsnews.com/video/new-report-finds-high-levels-of-toxic-heavy-metals-in-baby-food/?utm_source=dlvr.it&utm_medium=twitter#x
+
+<br/>
+
+<img src="CNN rice.png" style="zoom:80%;" />
+
+https://edition.cnn.com/2020/08/06/health/arsenic-infant-rice-cereal-fda-wellness/index.html
+
+<br/>
 
 # Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER"
 

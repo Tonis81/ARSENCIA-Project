@@ -105,7 +105,7 @@
 
 <br/>
 
-It has been a great pleasure to attend the presentation of ValER by the President of the Valencian Community, meet colleagues of the PlanGent and others. I am also very proud of having a picture of myself with Prof. Angel Carbonell, the director of Science and Research in the Valencian Community.  
+*Castelló, 17 September 2021*. It has been a great pleasure to attend the presentation of ValER by the President of the Valencian Community, meet colleagues of the PlanGent and others. I am also very proud of having a picture of myself with Prof. Angel Carbonell, the director of Science and Research in the Valencian Community.  
 
 <br/>
 
@@ -116,8 +116,6 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 
 # Sep_3: ERC "Reading day" - Campus de Espinardo - Universidad de Murcia
-
-## Castelló, 17 September 2021
 
 <br/>
 

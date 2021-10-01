@@ -16,36 +16,36 @@
 
 **September 2021 [6]**
 
-- Related news. Arsenic levels baby food USA.
+- **Sep_1:** Related news. Arsenic levels baby food USA.
 
-- Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER". 22 September 2021
+- **Sep_2**: Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER". 22 September 2021
 
-- ERC "Reading day" - Campus de Espinardo - Universidad de Murcia. 17 September 2021
+- **Sep_3**: ERC "Reading day" - Campus de Espinardo - Universidad de Murcia. 17 September 2021
 
-* Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
+* **Sep_4**: Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
 
 **August 2021 [5]**
 
-* Paddy field sampling
+* **Aug_1**: Paddy field sampling
 
-* Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_01
-* Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_02
+* **Aug_2**: Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_01
+* **Aug_3**: Presentation. 33rd Anual Conference of the International Society for Environmental Epidemiology_02
 
 **July 2021 [4]**
 
-* Laboratory equipment set up
+* **Jul_1**: Laboratory equipment set up
 
 **June 2021 [3]**
 
-* Sample preparation
+* **Jun_1**: Sample preparation
 
 **May 2021 [2]**
 
-* Publication
+* **May_1**: Publication
 
 **April 2021 [1]**
 
-* Start of the project
+* **Apr_1**: Start of the project
 
 
 
@@ -71,7 +71,7 @@
 
 <br/>
 
-## Related new. Arsenic levels baby food USA.
+## Sep_1: Related new. Arsenic levels baby food USA.
 
 
 
@@ -93,7 +93,7 @@ https://edition.cnn.com/2020/08/06/health/arsenic-infant-rice-cereal-fda-wellnes
 
 <br/>
 
-# Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER"
+# Sep_2: Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER"
 
 <br/>
 
@@ -107,7 +107,7 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 
 
-# ERC "Reading day" - Campus de Espinardo - Universidad de Murcia
+# Sep_3: ERC "Reading day" - Campus de Espinardo - Universidad de Murcia
 
 ## Castelló, 17 September 2021
 
@@ -119,7 +119,7 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 <br/>
 
-## Reunión anual de la Sociedad Española de Epidemiología - 
+## Sep_4: Reunión anual de la Sociedad Española de Epidemiología - 
 
 ## León, 7 al 10 de Septiembre 2021
 
@@ -139,7 +139,7 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 <br/>
 
-## Paddy field sample collection
+## Aug_1: Paddy field sample collection
 
 <img src="Myself in paddy.JPG" style="zoom:80%;" />
 
@@ -147,7 +147,7 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 <br/>
 
-## Abstract presentation [ISEE](https://www.isee2021.org/). Prenatal exposure to metal mixtures and lung function in children from the New Hampshire Birth Cohort Study
+## Aug_2: Abstract presentation [ISEE](https://www.isee2021.org/). Prenatal exposure to metal mixtures and lung function in children from the New Hampshire Birth Cohort Study
 
 <br/>
 
@@ -173,7 +173,7 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 ---
 
-## Abstract presentation [ISEE](https://www.isee2021.org/). Dietary exposure to metal mixtures throughout infants' first year of life in the New Hampshire Birth Cohort Study
+## Aug_3: Abstract presentation [ISEE](https://www.isee2021.org/). Dietary exposure to metal mixtures throughout infants' first year of life in the New Hampshire Birth Cohort Study
 
 <br/>
 
@@ -203,7 +203,7 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 # <span style="color:red">**July 2021**</span> [4]
 
-## New ICP-MS set up.
+## Jul_1: New ICP-MS set up.
 
 <img src="New ICP-MS.jpg" style="zoom:80%;" />
 
@@ -211,7 +211,7 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 # <span style="color:red">**June 2021**</span> [3]
 
-## Urine sample cataloguing and preparation for analysis
+## Jun_1: Urine sample cataloguing and preparation for analysis
 
 <img src="Urine sample_1.jpeg" style="zoom:80%;" /> <img src="Urine sample_2.jpeg" style="zoom:80%;" />
 
@@ -223,7 +223,7 @@ It has been a great pleasure to attend the presentation of ValER by the Presiden
 
 <br/>
 
-## Publication: Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study
+## May_1: Publication: Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study
 
 <br/>
 
@@ -253,7 +253,7 @@ Environment International, Volume 155, 2021, 106673, ISSN 0160-4120,
 
 <br/>
 
-## **Title**: Exposure to arsenic in the presence of other metals, metabolism and health effects in childhood and adolescence (ARSENCIA)
+## Apr_1: Exposure to arsenic in the presence of other metals, metabolism and health effects in childhood and adolescence (ARSENCIA)
 
 
 

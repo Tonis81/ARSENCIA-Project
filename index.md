@@ -14,9 +14,11 @@
 
 <span style="color:blue">**November 2021 [8]**</span>
 
+* **Nov_1**: Invited lecturer - Benedictine University Mesa, Arizona, US.
+
 <span style="color:blue">**October 2021 [7]**</span>
 
-* **Oct_29_1**: International Conference of Water, Energy and Environment for Sustainability (IC-WEES) - Islamabad, Karachi, Tashkent. 27 to 29 October. 
+* **Oct_1**: International Conference of Water, Energy and Environment for Sustainability (IC-WEES) - Islamabad, Karachi, Tashkent. 27 to 29 October. 
 
 <span style="color:blue">**September 2021 [6]**</span>
 
@@ -57,11 +59,29 @@
 
 ---
 
+
+
+<br/>
+
+# <span style="color:red">**November 2021**</span> [8]
+
+<br/>
+
+## **Nov_04_1**: Invited lecturer - Benedictine University Mesa, Arizona, US.
+
+
+
+<img src="Benedictine.png" style="zoom:80%;" />
+
 <br/>
 
 
 
-# <span style="color:red">**October 2021**</span> [6]
+<img src="Presentation benedictine.png" style="zoom:80%;" />
+
+<br/>
+
+# <span style="color:red">**October 2021**</span> [7]
 
 <br/>
 
@@ -70,6 +90,8 @@
 
 
 <img src="IC-WEES2021.png" style="zoom:80%;" />
+
+[Access information](https://icwees.nust.edu.pk/)
 
 <br/>
 

@@ -12,7 +12,11 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**November 2021 [8]**</span>
+
 <span style="color:blue">**October 2021 [7]**</span>
+
+* **Oct_29_1**: International Conference of Water, Energy and Environment for Sustainability (IC-WEES) - Islamabad, Karachi, Tashkent. 27 to 29 October. 
 
 <span style="color:blue">**September 2021 [6]**</span>
 
@@ -59,11 +63,23 @@
 
 # <span style="color:red">**October 2021**</span> [6]
 
+<br/>
+
+## **Oct_29_1**: International Conference of Water, Energy and Environment for Sustainability (IC-WEES) - Islamabad, Karachi, Tashkent. 27 to 29 October. 
 
 
 
+<img src="IC-WEES2021.png" style="zoom:80%;" />
+
+<br/>
+
+Invited speaker "Global-Scale Arsenic pollution and its potential effects on children under 3 years of age"
+
+<img src="Presentation Pakistan.png" style="zoom:80%;" />
 
 
+
+<br/>
 
 # <span style="color:red">**September 2021**</span> [6]
 

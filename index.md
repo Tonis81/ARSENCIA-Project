@@ -16,6 +16,7 @@
 
 * **Nov_1**: Invited lecturer - Benedictine University Mesa, Arizona, US.
 * **Nov_2**: Publicación convocatoria predoctoral UMH.
+* **Nov_3**: Reference to our work during FDA Closer to Zero.
 
 <span style="color:blue">**October 2021 [7]**</span>
 
@@ -93,6 +94,18 @@
 <img src="Post2.png" style="zoom:80%;" />
 
 [Detalles de la convocatoria](https://boumh.umh.es/resolucion-rectoral-04802-2021-de-17-de-noviembre-por-la-que-se-convoca-un-contrato-predoctoral-en-el-ambito-de-un-proyecto-de-investigacion-ref-238-21/)
+
+
+
+<br/>
+
+## **Nov_3: FDA Closer to Zero (18 noviembre 2021).
+
+<img src="Close to Zero.png" style="zoom:80%;" />
+
+
+
+[Youtube video here](https://www.youtube.com/watch?v=Sb9Uhiq6Hv4)
 
 <br/>
 

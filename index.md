@@ -15,6 +15,7 @@
 <span style="color:blue">**November 2021 [8]**</span>
 
 * **Nov_1**: Invited lecturer - Benedictine University Mesa, Arizona, US.
+* **Nov_2**: Publicación convocatoria predoctoral UMH.
 
 <span style="color:blue">**October 2021 [7]**</span>
 
@@ -67,7 +68,7 @@
 
 <br/>
 
-## **Nov_04_1**: Invited lecturer - Benedictine University Mesa, Arizona, US.
+## **Nov_04_1**: Invited lecturer - Benedictine University Mesa, Arizona, US (November 04, 2021).
 
 
 
@@ -78,6 +79,20 @@
 
 
 <img src="Presentation benedictine.png" style="zoom:80%;" />
+
+<br/>
+
+## **Nov_2**: Convocatoria contrato predoctoral (17 noviembre 2021).
+
+
+
+<img src="Post0.png" style="zoom:80%;" />
+
+<img src="Post1.png" style="zoom:80%;" />
+
+<img src="Post2.png" style="zoom:80%;" />
+
+[Detalles de la convocatoria](https://boumh.umh.es/resolucion-rectoral-04802-2021-de-17-de-noviembre-por-la-que-se-convoca-un-contrato-predoctoral-en-el-ambito-de-un-proyecto-de-investigacion-ref-238-21/)
 
 <br/>
 

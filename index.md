@@ -14,23 +14,23 @@
 
 <span style="color:blue">**November 2021 [8]**</span>
 
-* **Nov_1**: Invited lecturer - Benedictine University Mesa, Arizona, US.
-* **Nov_2**: Publicación convocatoria predoctoral UMH.
-* **Nov_3**: Reference to our work during FDA Closer to Zero.
+* **Nov_1**: Invited lecturer - Benedictine University Mesa, Arizona, US. (04 November 2021)
+* **Nov_2**: Publicación convocatoria predoctoral UMH (17 Noviembre 2021).
+* **Nov_3**: Reference to our work during FDA Closer to Zero (18 November 2021).
 
 <span style="color:blue">**October 2021 [7]**</span>
 
-* **Oct_1**: International Conference of Water, Energy and Environment for Sustainability (IC-WEES) - Islamabad, Karachi, Tashkent. 27 to 29 October. 
+* **Oct_1**: International Conference of Water, Energy and Environment for Sustainability (IC-WEES) - Islamabad, Karachi, Tashkent. (27 to 29 October). 
 
 <span style="color:blue">**September 2021 [6]**</span>
 
 - **Sep_1:** Related news. Arsenic levels baby food USA.
 
-- **Sep_2**: Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER". 22 September 2021
+- **Sep_2**: Presentació de la Fundación Comunitat Valenciana de Investigació d'Excel·lencia "ValER". (22 September 2021)
 
-- **Sep_3**: ERC "Reading day" - Campus de Espinardo - Universidad de Murcia. 17 September 2021
+- **Sep_3**: ERC "Reading day" - Campus de Espinardo - Universidad de Murcia. (17 September 2021)
 
-* **Sep_4**: Reunión anual de la Sociedad Española de Epidemiología - León 7 al 10 de Septiembre 2021
+* **Sep_4**: Reunión anual de la Sociedad Española de Epidemiología - León (7 al 10 de Septiembre 2021)
 
 <span style="color:blue">**August 2021 [5]**</span>
 
@@ -99,11 +99,11 @@
 
 <br/>
 
-## **Nov_3: FDA Closer to Zero (18 noviembre 2021).
+## **Nov_3: FDA Closer to Zero. References to our work (18 noviembre 2021).
+
+
 
 <img src="Close to Zero.png" style="zoom:80%;" />
-
-
 
 [Youtube video here](https://www.youtube.com/watch?v=Sb9Uhiq6Hv4)
 

@@ -17,6 +17,7 @@
 * **Nov_1**: Invited lecturer - Benedictine University Mesa, Arizona, US. (04 November 2021)
 * **Nov_2**: Publicación convocatoria predoctoral UMH (17 Noviembre 2021).
 * **Nov_3**: Reference to our work during FDA Closer to Zero (18 November 2021).
+* **Nov_4**: 17th INfancia y Medio Ambiente (Environmental and Childhood project) Scientific Conferences (23, 24 November 2021).
 
 <span style="color:blue">**October 2021 [7]**</span>
 
@@ -69,7 +70,7 @@
 
 <br/>
 
-## **Nov_04_1**: Invited lecturer - Benedictine University Mesa, Arizona, US (November 04, 2021).
+## **Nov_1**: Invited lecturer - Benedictine University Mesa, Arizona, US (November 04, 2021).
 
 
 
@@ -99,13 +100,33 @@
 
 <br/>
 
-## **Nov_3: FDA Closer to Zero. References to our work (18 noviembre 2021).
+## Nov_3: FDA Closer to Zero. References to our work (18 noviembre 2021).
 
 
 
 <img src="Close to Zero.png" style="zoom:80%;" />
 
 [Youtube video here](https://www.youtube.com/watch?v=Sb9Uhiq6Hv4)
+
+<br/>
+
+## Nov_4: 17th INfancia y Medio Ambiente (Environmental and Childhood project) Scientific Conferences (23, 24 November 2021).
+
+
+
+<img src="INMA.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="INMA hall.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="INMA venue.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="INMA talk.png" style="zoom:80%;" />
 
 <br/>
 

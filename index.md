@@ -18,6 +18,7 @@
 * **Nov_2**: Publicación convocatoria predoctoral UMH (17 Noviembre 2021).
 * **Nov_3**: Reference to our work during FDA Closer to Zero (18 November 2021).
 * **Nov_4**: 17th INfancia y Medio Ambiente (Environmental and Childhood project) Scientific Conferences (23, 24 November 2021).
+* **Nov_5**: CUCCAL 14 Programa-Académico Científico (25 Noviembre 2021)
 
 <span style="color:blue">**October 2021 [7]**</span>
 
@@ -130,11 +131,19 @@
 
 <br/>
 
+## **Nov_5**: CUCCAL 14 Programa-Académico Científico (25 Noviembre 2021)
+
+<br/>
+
+<img src="Somicca.png" style="zoom:100%;" />
+
+<br/>
+
 # <span style="color:red">**October 2021**</span> [7]
 
 <br/>
 
-## **Oct_29_1**: International Conference of Water, Energy and Environment for Sustainability (IC-WEES) - Islamabad, Karachi, Tashkent. 27 to 29 October. 
+## **Oct_1**: International Conference of Water, Energy and Environment for Sustainability (IC-WEES) - Islamabad, Karachi, Tashkent. 27 to 29 October. 
 
 
 

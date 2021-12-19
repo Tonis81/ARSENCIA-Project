@@ -67,7 +67,9 @@
 
 <br/>
 
-# <span style="color:red">**Timeline**</span> [8]
+# <span style="color:red">**Timeline 2021**</span> 
+
+<br/>
 
 <img src="timelineS.png" style="zoom:80%;" />
 

@@ -71,7 +71,7 @@
 
 <br/>
 
-<img src="timelineS.png" style="zoom:80%;" />
+<img src="timelineS.png" style="zoom:150%;" />
 
 
 

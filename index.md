@@ -18,7 +18,7 @@
 
 <span style="color:blue">**December 2021 [9]**</span>
 
-* **Dec_1**: New predoctoral hired (December 2021)
+* **Dec_1**: New publication with PREDIMED-PLUS (13 December 2021)
 
 <span style="color:blue">**November 2021 [8]**</span>
 
@@ -93,9 +93,11 @@
 
 
 
-## **Dec_1**: New predoctoral hired (December 2021)
+## New publication with PREDIMED-PLUS (13 December 2021)
 
+<img src="Predimed.png" style="zoom:80%;" />
 
+[Click here](https://www.frontiersin.org/articles/10.3389/fnagi.2021.782067/full)
 
 <br/>
 

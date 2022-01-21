@@ -12,6 +12,14 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**January 2021 [10]**</span>
+
++ **Jan_1**: Became a member of the Steering Committee of INMA (21 January 2022)
+
+<span style="color:blue">**December 2021 [9]**</span>
+
+* **Dec_1**: New predoctoral hired (December 2021)
+
 <span style="color:blue">**November 2021 [8]**</span>
 
 * **Nov_1**: Invited lecturer - Benedictine University Mesa, Arizona, US. (04 November 2021)
@@ -67,17 +75,25 @@
 
 <br/>
 
-# <span style="color:red">**Timeline 2021**</span> 
+# <span style="color:red">**January 2022**</span> [10]
 
 <br/>
 
-<img src="timelineS.png" style="zoom:100%;" />
+## **Jan_1**: Became a member of the Steering Committee of INMA (21 January 2022)
 
+<img src="INMA2.png" style="zoom:80%;" />
 
+[Click here](https://www.proyectoinma.org/proyecto-inma/organizacion/)
 
 <br/>
 
----
+# <span style="color:red">**December 2021**</span> [9]
+
+<br/>
+
+
+
+## **Dec_1**: New predoctoral hired (December 2021)
 
 
 

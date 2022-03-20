@@ -12,7 +12,11 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
-<span style="color:blue">**January 2021 [10]**</span>
+<span style="color:blue">**February 2022 [11]**</span>
+
+* **Feb_1**: Teaching statistics at UMH
+
+<span style="color:blue">**January 2022 [10]**</span>
 
 + **Jan_1**: Became a member of the Steering Committee of INMA (21 January 2022)
 
@@ -71,7 +75,15 @@
 
 ---
 
+<br/>
 
+# <span style="color:red">**February 2022**</span> [11]
+
+## Teaching advance statistics at UMH
+
+* How to install R - https://rpubs.com/ToniSignes/862089
+* Introduction to linear regression - https://rpubs.com/ToniSignes/862100
+* Example of multiple lienear regression with R using NHANES data - https://rpubs.com/ToniSignes/863500
 
 <br/>
 

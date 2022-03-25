@@ -87,6 +87,12 @@
 
 ## Jornadas Científicas CIBERESP 2022
 
+<img src="Jornadas Miguel.png" style="zoom:80%;" />
+
+
+
+
+
 <img src="Jornadas CIBERESP.png" style="zoom:80%;" />
 
 # <span style="color:red">**February 2022**</span> [11]

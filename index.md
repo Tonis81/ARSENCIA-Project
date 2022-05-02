@@ -12,6 +12,15 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**April 2022 [13]**</span>
+
+- **Apr_1**: Soil samples Ecuador
+- **Apr_2**: Abstracts submition ISEE
+   - Arsenic exposure and respiratory outcomes during childhood in the INMA study
+   - Associations of Maternal Urinary Arsenic Concentrations during Pregnancy with Infant and Child Mental, Psychomotor, and Cognitive Development: The HOME Study
+   - Adherence to Mediterranean diet and metal exposure during childhood in the INMA study
+- **Apr_3**: Volunteer ISEE abstract review  
+
 <span style="color:blue">**March 2022 [12]**</span>
 
 * **Mar_1**: Jornadas Científicas CIBERESP 2022  
@@ -78,15 +87,7 @@
 
 <br/>
 
----
-
-<br/>
-
-
-
-<br/>
-
-<hr style="border:2px solid blue"> </hr>
+<hr style="border:2px solid blue"> 
 
 <br/>
 

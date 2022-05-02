@@ -84,6 +84,12 @@
 
 
 
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
 # <span style="color:red">**March 2022**</span> [12]
 
 ## Jornadas Científicas CIBERESP 2022
@@ -103,6 +109,12 @@
 <img src="Publication Yuka.png" style="zoom:80%;" />
 
 
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
 
 # <span style="color:red">**February 2022**</span> [11]
 

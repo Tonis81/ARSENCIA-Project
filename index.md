@@ -87,7 +87,7 @@
 
 <br/>
 
-<hr style="border:2px solid blue"> 
+---
 
 <br/>
 
@@ -113,7 +113,7 @@
 
 <br/>
 
-<hr style="border:2px solid blue"> </hr>
+---
 
 <br/>
 
@@ -124,6 +124,10 @@
 * How to install R - https://rpubs.com/ToniSignes/862089
 * Introduction to linear regression - https://rpubs.com/ToniSignes/862100
 * Example of multiple lienear regression with R using NHANES data - https://rpubs.com/ToniSignes/863500
+
+<br/>
+
+---
 
 <br/>
 
@@ -139,6 +143,10 @@
 
 <br/>
 
+---
+
+<br/>
+
 # <span style="color:red">**December 2021**</span> [9]
 
 <br/>
@@ -150,6 +158,10 @@
 <img src="Predimed.png" style="zoom:80%;" />
 
 [Click here](https://www.frontiersin.org/articles/10.3389/fnagi.2021.782067/full)
+
+<br/>
+
+---
 
 <br/>
 
@@ -225,6 +237,10 @@
 
 <br/>
 
+---
+
+<br/>
+
 # <span style="color:red">**October 2021**</span> [7]
 
 <br/>
@@ -244,6 +260,10 @@ Invited speaker "Global-Scale Arsenic pollution and its potential effects on chi
 <img src="Presentation Pakistan.png" style="zoom:80%;" />
 
 
+
+<br/>
+
+---
 
 <br/>
 
@@ -323,6 +343,10 @@ Invited speaker "Global-Scale Arsenic pollution and its potential effects on chi
 
 <br/>
 
+---
+
+<br/>
+
 # <span style="color:red">**August 2021**</span> [5]
 
 <br/>
@@ -389,11 +413,19 @@ Invited speaker "Global-Scale Arsenic pollution and its potential effects on chi
 
 <br/>
 
+---
+
+<br/>
+
 # <span style="color:red">**July 2021**</span> [4]
 
 ## Jul_1: New ICP-MS set up.
 
 <img src="New ICP-MS.jpg" style="zoom:80%;" />
+
+<br/>
+
+---
 
 <br/>
 
@@ -404,6 +436,10 @@ Invited speaker "Global-Scale Arsenic pollution and its potential effects on chi
 <img src="Urine sample_1.jpeg" style="zoom:80%;" /> <img src="Urine sample_2.jpeg" style="zoom:80%;" />
 
 > Processing INMA urine samples to determine bulk metals analysis and arsenic speciation. 
+
+<br/>
+
+---
 
 <br/>
 
@@ -434,6 +470,10 @@ Environment International, Volume 155, 2021, 106673, ISSN 0160-4120,
 <br/>
 
 [doi](https://doi.org/10.1016/j.envint.2021.106673); [web](https://www.sciencedirect.com/science/article/pii/S0160412021002981)
+
+<br/>
+
+---
 
 <br/>
 

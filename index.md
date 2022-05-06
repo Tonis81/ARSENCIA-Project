@@ -249,6 +249,12 @@ Full scan analysis of soil samples from Ecuador.
 
 <br/>
 
+
+
+<img src="INMA 2021.png" style="zoom:80%;" />
+
+<br/>
+
 <img src="INMA talk.png" style="zoom:80%;" />
 
 <br/>

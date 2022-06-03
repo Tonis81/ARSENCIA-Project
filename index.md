@@ -12,6 +12,12 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**May 2022 [14]**</span>
+
+- **May_1**: Abstract accepted ISEE
+- **May_2**: Paper accepted for publication
+- **May_3**: Addional samples analysis
+
 <span style="color:blue">**April 2022 [13]**</span>
 
 - **Apr_1**: Soil samples Ecuador
@@ -91,7 +97,29 @@
 
 <br/>
 
-# <span style="color:red">**April 2022**</span> [12]
+# <span style="color:red">**May 2022**</span> [14]
+
+# Abstracts submition ISEE
+
+<img src="ISEE accepted.png" style="zoom:80%;" />
+
+
+
+# Paper accepted for publication
+
+<img src="Transition paper.png" style="zoom:80%;" />
+
+# Addional samples analysis
+
+Continue analysing arsenic speciation in urine samples
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**April 2022**</span> [13]
 
 # Soil samples Ecuador
 

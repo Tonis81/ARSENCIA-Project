@@ -17,6 +17,7 @@
 - **May_1**: Abstract accepted ISEE
 - **May_2**: Paper accepted for publication
 - **May_3**: Addional samples analysis
+- **May_4**: Teaching "Mater in Public Health" 
 
 <span style="color:blue">**April 2022 [13]**</span>
 
@@ -112,6 +113,14 @@
 # Addional samples analysis
 
 Continue analysing arsenic speciation in urine samples
+
+# Teaching "Master in Public Health"
+
+https://rpubs.com/ToniSignes/881320 
+
+https://rpubs.com/ToniSignes/881323
+
+https://rpubs.com/ToniSignes/881324 
 
 <br/>
 

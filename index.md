@@ -12,6 +12,14 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+
+
+<span style="color:blue">**June 2022 [15]**</span>
+
+* **June_1**: Paper accepted for publication
+* **June_2**: International Master Food Science and Technology
+* **June_3**: ThinkinAzul
+
 <span style="color:blue">**May 2022 [14]**</span>
 
 - **May_1**: Abstract accepted ISEE
@@ -97,6 +105,32 @@
 ---
 
 <br/>
+
+# <span style="color:red">**June 2022**</span> [15]
+
+## Paper accepted for publication
+
+<img src="MiguelPaper.png" style="zoom:80%;" />
+
+https://www.sciencedirect.com/science/article/pii/S0013935122009343?via%3Dihub
+
+## International Master Food Science and Technology
+
+Colaboration with International Master in Food Science and Technology
+
+## ThinkinAzul
+
+<img src="ThinkinAzul.png" style="zoom:80%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
+
 
 # <span style="color:red">**May 2022**</span> [14]
 

@@ -14,6 +14,11 @@
 
 
 
+<span style="color:blue">**July 2022 [16]**</span>
+
+* **July_1**: Paper accepted for publication
+* **July_2**: Open research positions 
+
 <span style="color:blue">**June 2022 [15]**</span>
 
 * **June_1**: Paper accepted for publication
@@ -99,6 +104,30 @@
 * **Apr_1**: Start of the project
 
 
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**July 2022**</span> [16]
+
+## Paper accepted for publication
+
+<img src="HOME publications.png" style="zoom:80%;" />
+
+<br/>
+
+## Open research position
+
+\> Oportunidad para desarrollar actividades de investigación sobre seguridad alimentaria y epidemiología de los elementos traza en la Universidad Miguel Hernández. Si cumples los requisitos y estás interesado no dudes en ponerte en contacto y enviarnos el CV. 
+
+\> Oportunitat per desenvolupar activitat d'investigació sobre seguretat alimentària y epidemiologia dels elements traça a la Universitat Miguel Hernández. Si compleixes amb els requisits i estàs interessat no dubtes a contactar i enviar-nos el CV.
+
+\> Research position on food safety and trace metal epidemiology at the Miguel Hernández University. If you meet the requirements and are interested, do not hesitate to contact us, and send us your CV.
+
+https://drive.google.com/file/d/12MYErp9lTh5wMqtsjiS1ukoZD4XvGN2V/view?usp=sharing
 
 <br/>
 

@@ -127,7 +127,7 @@
 
 \> Research position on food safety and trace metal epidemiology at the Miguel Hernández University. If you meet the requirements and are interested, do not hesitate to contact us, and send us your CV.
 
-https://drive.google.com/file/d/12MYErp9lTh5wMqtsjiS1ukoZD4XvGN2V/view?usp=sharing
+[Details](https://drive.google.com/file/d/12MYErp9lTh5wMqtsjiS1ukoZD4XvGN2V/view?usp=sharing)
 
 <br/>
 

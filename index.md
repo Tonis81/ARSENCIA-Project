@@ -133,10 +133,13 @@ The manuscript entitled "**Arsenic exposure and respiratory outcomes during chil
 
 The following Concept Proposals (Step 1) have been submuted to use ECHO data:
 
-	* **Prenatal exposure to arsenic and lung function in children: An ECHO program study**
-	* **Pre- and postnatal arsenic exposure, arsenic methylation efficiency, and childhood neurodevelopment: An ECHO program study**
-	* **Trace elements, metals and metalloids and early childhood growth**
-	* **Exposure to essential and non-essential elements during weaning – A validation study**
+- **Prenatal exposure to arsenic and lung function in children: An ECHO program study**
+
+- **Pre- and postnatal arsenic exposure, arsenic methylation efficiency, and childhood neurodevelopment: An ECHO program study**
+
+- **Trace elements, metals and metalloids and early childhood growth**
+
+- **Exposure to essential and non-essential elements during weaning – A validation study**
 
 
 

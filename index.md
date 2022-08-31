@@ -12,7 +12,15 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**August 2022 [17]**</span>
 
+**August_1**: Paper accepted for publication_01.
+
+**August_2**: Paper accepted for publication_02.
+
+**August_3**: ECHO Concept Proposals.
+
+**August_4**: ISEE poster submition.
 
 <span style="color:blue">**July 2022 [16]**</span>
 
@@ -104,6 +112,45 @@
 * **Apr_1**: Start of the project
 
 
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**August 2022**</span> [17]
+
+## Paper accepted for publication 01
+
+The manuscript entitled "**Dietary exposure to toxic elements and the health of young children: methodological considerations and data needs**" has been accepted for publication in The Journal of Nutrition.
+
+## Paper accepted for publication 02
+
+The manuscript entitled "**Arsenic exposure and respiratory outcomes during childhood in the INMA study**" has been accepted for publication in PLOS ONE.
+
+## ECHO Concept Proposals
+
+The following Concept Proposals (Step 1) have been submuted to use ECHO data:
+
+	* **Prenatal exposure to arsenic and lung function in children: An ECHO program study**
+	* **Pre- and postnatal arsenic exposure, arsenic methylation efficiency, and childhood neurodevelopment: An ECHO program study**
+	* **Trace elements, metals and metalloids and early childhood growth**
+	* **Exposure to essential and non-essential elements during weaning – A validation study**
+
+
+
+## ISEE posters
+
+<img src="Adherence to Mediterranean Diet.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="INMA Respiratory outcomes.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="HOME cognitive.png" style="zoom:80%;" />
 
 <br/>
 

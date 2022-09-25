@@ -14,7 +14,7 @@
 
 <span style="color:blue">**September 2022 [18]**</span>
 
-**August_1**: 34 Annual Conference of International Society of Environmental Epidemiology 18-21 Sept. 2022_01.
+**August_1**: 34 Annual Conference of International Society of Environmental Epidemiology 18-21 Sept. 2022.
 
 <span style="color:blue">**August 2022 [17]**</span>
 

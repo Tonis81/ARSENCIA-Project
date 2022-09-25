@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**September 2022 [18]**</span>
+
+**August_1**: 34 Annual Conference of International Society of Environmental Epidemiology 18-21 Sept. 2022_01.
+
 <span style="color:blue">**August 2022 [17]**</span>
 
 **August_1**: Paper accepted for publication_01.
@@ -112,6 +116,26 @@
 * **Apr_1**: Start of the project
 
 
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**September 2022**</span> [18]
+
+## 34 Annual Conference of International Society of Environmental Epidemiology
+
+<img src="ISEE 2022.png" style="zoom:80%;" />
+
+
+
+<img src="Leyre Poster.png" style="zoom:80%;" />
+
+
+
+<img src="Toni Signes Poster ISEE.png" style="zoom:80%;" />
 
 <br/>
 

@@ -14,7 +14,9 @@
 
 <span style="color:blue">**September 2022 [18]**</span>
 
-**August_1**: 34 Annual Conference of International Society of Environmental Epidemiology 18-21 Sept. 2022.
+**September_1**: 34 Annual Conference of International Society of Environmental Epidemiology 18-21 Sept. 2022.
+
+**September_2**: Trabajo fin de máster - Estudio del contenido de arsénico en alimentos infantiles elaborados a base de arroz.
 
 <span style="color:blue">**August 2022 [17]**</span>
 
@@ -136,6 +138,12 @@
 
 
 <img src="Toni Signes Poster ISEE.png" style="zoom:80%;" />
+
+
+
+## Trabajo fin de máster - Estudio del contenido de arsénico en alimentos infantiles elaborados a base de arroz
+
+<img src="Master.png" style="zoom:80%;" />
 
 <br/>
 

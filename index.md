@@ -12,21 +12,25 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**October 2022 [19]**</span>
+
+* **October_1**: New Publication: Dietary Exposure to Toxic Elements and the Health of Young Children: Methodological Considerations and Data Needs. 
+
 <span style="color:blue">**September 2022 [18]**</span>
 
-**September_1**: 34 Annual Conference of International Society of Environmental Epidemiology 18-21 Sept. 2022.
+* **September_1**: 34 Annual Conference of International Society of Environmental Epidemiology 18-21 Sept. 2022.
 
-**September_2**: Trabajo fin de máster - Estudio del contenido de arsénico en alimentos infantiles elaborados a base de arroz.
+* **September_2**: Trabajo fin de máster - Estudio del contenido de arsénico en alimentos infantiles elaborados a base de arroz.
 
 <span style="color:blue">**August 2022 [17]**</span>
 
-**August_1**: Paper accepted for publication_01.
+* **August_1**: Paper accepted for publication_01.
 
-**August_2**: Paper accepted for publication_02.
+* **August_2**: Paper accepted for publication_02.
 
-**August_3**: ECHO Concept Proposals.
+* **August_3**: ECHO Concept Proposals.
 
-**August_4**: ISEE poster submition.
+* **August_4**: ISEE poster submition.
 
 <span style="color:blue">**July 2022 [16]**</span>
 
@@ -116,6 +120,24 @@
 <span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
+
+
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**October 2022**</span> [19]
+
+
+
+<img src="Kasia.png" style="zoom:80%;" />
+
+
+
+[Access publication](https://academic.oup.com/jn/advance-article-abstract/doi/10.1093/jn/nxac185/6748278?redirectedFrom=fulltext&login=false)
 
 
 

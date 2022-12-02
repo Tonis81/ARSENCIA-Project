@@ -12,9 +12,16 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**November 2022 [20]**</span>
+
+**November_1**: Teaching
+
+**November_2**: Outreach activities
+
 <span style="color:blue">**October 2022 [19]**</span>
 
 * **October_1**: New Publication: Dietary Exposure to Toxic Elements and the Health of Young Children: Methodological Considerations and Data Needs. 
+* **October_2**: Start AGROALNEXT.
 
 <span style="color:blue">**September 2022 [18]**</span>
 
@@ -129,9 +136,57 @@
 
 <br/>
 
+# <span style="color:red">**November 2022**</span> [20]
+
+## Teaching
+
+<img src="Mutca.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="Medicina.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="Master salud.png" style="zoom:80%;" />
+
+## Outreach activities
+
+<img src="Ecuador.png" style="zoom:80%;" />
+
+<br/>
+
+### I Young Researchers Meeting CIBERESP-BBN in Barcelona, 21-22 November
+
+<img src="Young Researcher Barcelona.png" style="zoom:80%;" />
+
+
+
+<br/>
+
+### Infografía
+
+<img src="Infografía.png" style="zoom:80%;" />
+
+
+
+<br/>
+
+### Boletín INMA
+
+<img src="Boletín INMA.png" style="zoom:80%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
 # <span style="color:red">**October 2022**</span> [19]
 
-
+## New Publication
 
 <img src="Kasia.png" style="zoom:80%;" />
 
@@ -139,7 +194,9 @@
 
 [Access publication](https://academic.oup.com/jn/advance-article-abstract/doi/10.1093/jn/nxac185/6748278?redirectedFrom=fulltext&login=false)
 
+## Start AGROALNEXT
 
+[web](https://tonis81.github.io/HidroSOStoneFruit/)
 
 <br/>
 

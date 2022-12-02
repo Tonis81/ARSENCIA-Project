@@ -14,9 +14,9 @@
 
 <span style="color:blue">**November 2022 [20]**</span>
 
-**November_1**: Teaching
+* **November_1**: Teaching
 
-**November_2**: Outreach activities
+* **November_2**: Outreach activities
 
 <span style="color:blue">**October 2022 [19]**</span>
 

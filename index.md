@@ -18,6 +18,8 @@
 
 * **November_2**: Outreach activities
 
+* **November_3**: INVESTIGO
+
 <span style="color:blue">**October 2022 [19]**</span>
 
 * **October_1**: New Publication: Dietary Exposure to Toxic Elements and the Health of Young Children: Methodological Considerations and Data Needs. 
@@ -166,7 +168,7 @@
 
 ### Infografía
 
-<img src="Infografía.png" style="zoom:100%;" />
+<img src="Infografía.png" style="zoom:80%;" />
 
 
 
@@ -177,6 +179,12 @@
 <img src="Boletín INMA.png" style="zoom:80%;" />
 
 
+
+<br/>
+
+## INVESTIGO
+
+<img src="INVESTIGO.png" style="zoom:80%;" />
 
 <br/>
 

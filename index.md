@@ -166,7 +166,7 @@
 
 ### Infografía
 
-<img src="Infografía.png" style="zoom:80%;" />
+<img src="Infografía.png" style="zoom:100%;" />
 
 
 

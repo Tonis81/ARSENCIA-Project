@@ -12,6 +12,11 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**December 2022 [21]**</span>
+
+* **December_1**: Outreach activities
+* **December_2**: Colaboration project TENDR
+
 <span style="color:blue">**November 2022 [20]**</span>
 
 * **November_1**: Teaching
@@ -131,6 +136,30 @@
 * **Apr_1**: Start of the project
 
 
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**December 2022**</span> [20]
+
+
+
+## Boletín INMA
+
+## <img src="Boletín INMA 1.png" style="zoom:80%;" />
+
+
+
+<img src="Boletín INMA 2.png" style="zoom:80%;" />
+
+
+
+## Collaborator project TNDR
+
+https://projecttendr.com/
 
 <br/>
 

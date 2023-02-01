@@ -17,6 +17,7 @@
 <span style="color:blue">**January 2023 [22]**</span>
 
 * **January_1**: Abstract reviwer for the International Conference and Exhibition for Science
+* **January_2**: INMA-Valencia meeting
 
 <span style="color:blue">**December 2022 [21]**</span>
 

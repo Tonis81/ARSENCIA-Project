@@ -12,6 +12,12 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+
+
+<span style="color:blue">**January 2023 [22]**</span>
+
+* **January_1**: Abstract reviwer for the International Conference and Exhibition for Science
+
 <span style="color:blue">**December 2022 [21]**</span>
 
 * **December_1**: Outreach activities
@@ -143,9 +149,34 @@
 
 <br/>
 
-# <span style="color:red">**December 2022**</span> [20]
+# <span style="color:red">**January 2023**</span> [22]
+
+## Abstract reviwer for the International Conference and Exhibition for Science
+
+https://www.ices-ksa.org/
+
+<img src="ICES2023.png" style="zoom:80%;" />
 
 
+
+## INMA-Valencia meeting
+
+FISABIO-Salud Pública
+Avenida de Cataluña nº 21
+46020
+Valencia
+
+<img src="FISABIO_1.png" style="zoom:80%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**December 2022**</span> [21]
 
 ## Boletín INMA
 

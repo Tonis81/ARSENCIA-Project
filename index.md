@@ -14,6 +14,10 @@
 
 
 
+<span style="color:blue">**February 2023 [23]**</span>
+
+* **February_1**: INMA conference posters presentation
+
 <span style="color:blue">**January 2023 [22]**</span>
 
 * **January_1**: Abstract reviwer for the International Conference and Exhibition for Science
@@ -142,7 +146,23 @@
 
 * **Apr_1**: Start of the project
 
+<br/>
 
+---
+
+<br/>
+
+# <span style="color:red">**February 2023**</span> [22]
+
+## INMA Conference posters presentation
+
+<img src="INMA confrence.png" style="zoom:80%;" />
+
+<img src="Poster leyre.png" style="zoom:80%;" />
+
+
+
+<img src="Poster toni.png" style="zoom:80%;" />
 
 <br/>
 

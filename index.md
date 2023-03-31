@@ -14,6 +14,10 @@
 
 
 
+<span style="color:blue">**Marzo 2023 [24]**</span>
+
+* **Marzo_1**: Speaker "II Encuentro Empresa-Investigadores Fundación:LAB Mediterráneo"
+
 <span style="color:blue">**February 2023 [23]**</span>
 
 * **February_1**: INMA conference posters presentation
@@ -145,6 +149,30 @@
 <span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
+
+
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**March 2023**</span> [22]
+
+## Seminar - Fundación:LAB Mediterráneo
+
+<img src="LABMed1.png" style="zoom:80%;" />
+
+
+
+<img src="LABMed2.png" style="zoom:80%;" />
+
+
+
+[Fundación:LAB Mediterráneo](https://www.fundacionlab.es/encuentro-conectando-empresarios-investigadores-2023/)
+
+
 
 <br/>
 

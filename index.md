@@ -12,11 +12,14 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**April 2023 [25]**</span>
 
+* **April_1**: Twitter "Empresa-Investigadores Fundación:LAB Mediterráneo"
+* **April_2**: ECHO proposal Prenatal Exposure to Arsenic and childhood Neurodevelopment.
 
 <span style="color:blue">**March 2023 [24]**</span>
 
-* **Marzo_1**: Speaker "II Encuentro Empresa-Investigadores Fundación:LAB Mediterráneo"
+* **March_1**: Speaker "II Encuentro Empresa-Investigadores Fundación:LAB Mediterráneo"
 
 <span style="color:blue">**February 2023 [23]**</span>
 
@@ -150,7 +153,29 @@
 
 * **Apr_1**: Start of the project
 
+<br/>
 
+---
+
+<br/>
+
+# <span style="color:red">**April 2023**</span> [22]
+
+## Twitter "Empresa-Investigadores Fundación:LAB Mediterráneo"
+
+<img src="Twitter.png" style="zoom:80%;" />
+
+https://twitter.com/FundacionLAB/status/1645142019889680384
+
+
+
+## ECHO proposal Prenatal Exposure to Arsenic and childhood Neurodevelopment
+
+<img src="ECHO.png" style="zoom:80%;" />
+
+
+
+Accepted scientific article proposal with title "Pre- and postnatal arsenic exposure, arsenic methylation efficiency, and childhood neurodevelopment: An ECHO program study"
 
 <br/>
 

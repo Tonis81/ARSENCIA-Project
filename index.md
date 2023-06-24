@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**May 2023 [26]**</span>
+
+* **May_2**: ECHO proposal Prenatal exposure to arsenic and lung function in children: An ECHO program study.
+
 <span style="color:blue">**April 2023 [25]**</span>
 
 * **April_1**: Twitter "Empresa-Investigadores Fundación:LAB Mediterráneo"
@@ -153,13 +157,31 @@
 
 * **Apr_1**: Start of the project
 
+
+
 <br/>
 
 ---
 
 <br/>
 
-# <span style="color:red">**April 2023**</span> [22]
+# <span style="color:red">**May 2023**</span> [26]
+
+## ECHO proposal Prenatal exposure to arsenic and lung function in children: An ECHO program study
+
+<img src="ECHO.png" style="zoom:80%;" />
+
+
+
+Accepted scientific article proposal with title "ECHO proposal Prenatal exposure to arsenic and lung function in children: An ECHO program study"
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**April 2023**</span> [25]
 
 ## Twitter "Empresa-Investigadores Fundación:LAB Mediterráneo"
 
@@ -183,7 +205,7 @@ Accepted scientific article proposal with title "Pre- and postnatal arsenic expo
 
 <br/>
 
-# <span style="color:red">**March 2023**</span> [22]
+# <span style="color:red">**March 2023**</span> [24]
 
 ## Seminar - Fundación:LAB Mediterráneo
 
@@ -205,7 +227,7 @@ Accepted scientific article proposal with title "Pre- and postnatal arsenic expo
 
 <br/>
 
-# <span style="color:red">**February 2023**</span> [22]
+# <span style="color:red">**February 2023**</span> [23]
 
 ## INMA Conference posters presentation
 

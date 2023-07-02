@@ -12,9 +12,14 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Jun 2023 [27]**</span>
+
+* **Jun_1**: New publication.
+* **Jun_2**: Arsenic speciation equipment set up
+
 <span style="color:blue">**May 2023 [26]**</span>
 
-* **May_2**: ECHO proposal Prenatal exposure to arsenic and lung function in children: An ECHO program study.
+* **May_1**: ECHO proposal Prenatal exposure to arsenic and lung function in children: An ECHO program study.
 
 <span style="color:blue">**April 2023 [25]**</span>
 
@@ -158,6 +163,30 @@
 * **Apr_1**: Start of the project
 
 
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**June 2023**</span> [27]
+
+## Jun_1: New publication
+
+<img src="Leyre's publication.png" style="zoom:80%;" />
+
+[Link](https://www.sciencedirect.com/science/article/pii/S0013935123013129?via%3Dihub)
+
+<br/>
+
+---
+
+<br/>
+
+## **Jun_2**: Arsenic speciation equipment set up
+
+<img src="Set up arsenic.png" style="zoom:80%;" />
 
 <br/>
 

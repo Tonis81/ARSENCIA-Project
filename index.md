@@ -12,6 +12,11 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Jul 2023 [28]**</span>
+
+* **Jul_1**: ICP-MS analysis
+* **Jul_2**: Funación LAB course
+
 <span style="color:blue">**Jun 2023 [27]**</span>
 
 * **Jun_1**: New publication.
@@ -161,6 +166,30 @@
 <span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
+
+
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**July 2023**</span> [28]
+
+## Jul_1: ICP-MS analysis
+
+<img src="ICP-MS analysis.png" style="zoom:80%;" />
+
+<br/>
+
+---
+
+<br/>
+
+## Jul_2: Fundación LAB Course
+
+<img src="Fundación LAB.png" style="zoom:80%;" />
 
 
 

@@ -15,7 +15,7 @@
 <span style="color:blue">**Jul 2023 [28]**</span>
 
 * **Jul_1**: ICP-MS analysis
-* **Jul_2**: Funación LAB course
+* **Jul_2**: Fundación LAB course
 
 <span style="color:blue">**Jun 2023 [27]**</span>
 

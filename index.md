@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Aug 2023 [29]**</span>
+
+* **Aug_1**: Iniciate scoping review about arsenic exposure and neurodevelopment
+
 <span style="color:blue">**Jul 2023 [28]**</span>
 
 * **Jul_1**: ICP-MS analysis
@@ -167,7 +171,17 @@
 
 * **Apr_1**: Start of the project
 
+<br/>
 
+---
+
+<br/>
+
+# <span style="color:red">**Aug 2023**</span> [29]
+
+## Aug_1: Scoping review about arsenic exposure and neurodevelopment.
+
+This review study aims to gather all original studies on arsenic exposure during pregnancy or early childhood and children neuropsychological development.
 
 <br/>
 

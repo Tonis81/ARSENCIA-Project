@@ -12,6 +12,12 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Sep 2023 [30]**</span>
+
+* **Sep_1**: XLI Reunión Anual de la Sociedad Española de Epidemiología (SEE)
+* **Sep_2**: 35th Annual Conference of the International Society for Environmental Epidemiology (ISEE)
+* **Sep_3**: Manuscript acceptance for publication
+
 <span style="color:blue">**Aug 2023 [29]**</span>
 
 * **Aug_1**: Iniciate scoping review about arsenic exposure and neurodevelopment
@@ -170,6 +176,56 @@
 <span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
+
+
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**Sep 2023**</span> [30]
+
+## **Sep_1**: XLI Reunión Anual de la Sociedad Española de Epidemiología (SEE)
+
+<img src="SEE Portugal.png" style="zoom:80%;" />
+
+
+
+
+
+<img src="Certificado comunicación Oral.png" style="zoom:80%;" />
+
+[Reunión Anual](https://www.reunionanualsee.org/)
+
+<br/>
+
+---
+
+<br/>
+
+## **Sep_2**: 35th Annual Conference of the International Society for Environmental Epidemiology (ISEE)
+
+<img src="Poster neuro.png" style="zoom:80%;" />
+
+
+
+<img src="Poster provegetaria.png" style="zoom:80%;" />
+
+
+
+[Annual Conference](https://2023.iseeconference.org/)
+
+<br/>
+
+---
+
+<br/>
+
+## **Sep_3**: Manuscript acceptance for publication
+
+<img src="Acceptance letter.png" style="zoom:80%;" />
 
 <br/>
 

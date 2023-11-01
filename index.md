@@ -12,6 +12,11 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Oct 2023 [31]**</span>
+
+- **Oct_1**: New publication: "Prenatal exposure to metals mixtures and lung funtion in children from the New Hampshire birth cohort study"
+- **Oct_2**: New publication: "Latent childhood exposure to mixtures of metals and neurodevelopmental outcomes in 4-5 year-old children living in Spain"
+
 <span style="color:blue">**Sep 2023 [30]**</span>
 
 * **Sep_1**: XLI Reunión Anual de la Sociedad Española de Epidemiología (SEE)
@@ -184,6 +189,40 @@
 ---
 
 <br/>
+
+# <span style="color:red">**Oct 2023**</span> [31]
+
+## **Oct_1**: New publication: "Prenatal exposure to metals mixtures and lung funtion in children from the New Hampshire birth cohort study"
+
+<img src="Lung function NHBCS.png" style="zoom:80%;" />
+
+
+
+[link](https://www.sciencedirect.com/science/article/pii/S0013935123020388?via%3Dihub)
+
+<br/>
+
+---
+
+<br/>
+
+
+
+## **Oct_2**: New publication: "Latent childhood exposure to mixtures of metals and neurodevelopmental outcomes in 4-5 year-old children living in Spain"
+
+<img src="Latent variable INMA.png" style="zoom:80%;" />
+
+[link](https://link.springer.com/article/10.1007/s12403-023-00610-8)
+
+<br/>
+
+---
+
+<br/>
+
+
+
+
 
 # <span style="color:red">**Sep 2023**</span> [30]
 

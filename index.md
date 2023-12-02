@@ -12,6 +12,11 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Nov 2023 [32]**</span>
+
+- **Nov_1**:  International Webinar organised by "La Escuela superior politécnica de Chimborazo a través del decanato de investigaciones y El Grupo Asociado de Investigación en Biotecnología, Ambiente y Química “GAIBAQ” de la facultad de ciencias."
+- **Nov_2**:  Set up arsenic speciation method using HPLC-ICP-MS.
+
 <span style="color:blue">**Oct 2023 [31]**</span>
 
 - **Oct_1**: New publication: "Prenatal exposure to metals mixtures and lung funtion in children from the New Hampshire birth cohort study"
@@ -181,6 +186,34 @@
 <span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
+
+
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**Nov 2023**</span> [32]
+
+## **Nov_1**:  International Webinar organised by "La Escuela superior politécnica de Chimborazo a través del decanato de investigaciones y El Grupo Asociado de Investigación en Biotecnología, Ambiente y Química “GAIBAQ” de la facultad de ciencias."
+
+<img src="WebinarEcuador.png" style="zoom:80%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
+
+
+## **Nov_2**:  Set up arsenic speciation method using HPLC-ICP-MS.
+
+<img src="Speciation.png" style="zoom:80%;" />
 
 
 

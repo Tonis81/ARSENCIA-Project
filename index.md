@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Dec 2023 [33]**</span>
+
+- **Dec_1**:  New Publication: "Association between Mediterranean diet and metal mixtures concentrations in pregnant people from the New Hampshire Birth Cohort Study".
+
 <span style="color:blue">**Nov 2023 [32]**</span>
 
 - **Nov_1**:  International Webinar organised by "La Escuela superior politécnica de Chimborazo a través del decanato de investigaciones y El Grupo Asociado de Investigación en Biotecnología, Ambiente y Química “GAIBAQ” de la facultad de ciencias."
@@ -186,6 +190,24 @@
 <span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
+
+
+
+
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**Dec 2023**</span> [33]
+
+**Dec_1**:  New Publication: "Association between Mediterranean diet and metal mixtures concentrations in pregnant people from the New Hampshire Birth Cohort Study".
+
+<img src="Notario2023.png" style="zoom:80%;" />
+
+[link](https://www.sciencedirect.com/science/article/abs/pii/S0048969723077574)
 
 
 

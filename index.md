@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Jan 2024 [34]**</span>
+
+- **Jan_1**: New Publication: "Environmental pollution by heavy metals within the area influenced by the Tungurahua volcano eruption – Ecuador"  
+
 <span style="color:blue">**Dec 2023 [33]**</span>
 
 - **Dec_1**:  New Publication: "Association between Mediterranean diet and metal mixtures concentrations in pregnant people from the New Hampshire Birth Cohort Study".
@@ -200,6 +204,16 @@
 ---
 
 <br/>
+
+
+
+# <span style="color:red">**Jan 2024**</span> [33]
+
+**Jan_1**: New Publication: "Environmental pollution by heavy metals within the area influenced by the Tungurahua volcano eruption – Ecuador"  
+
+<img src="Ecuador_publication1.png" style="zoom:80%;" />
+
+[link](https://www.sciencedirect.com/science/article/pii/S0147651323014239?via%3Dihub)
 
 # <span style="color:red">**Dec 2023**</span> [33]
 

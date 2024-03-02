@@ -12,6 +12,12 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Feb 2024 [35]**</span>
+
+- **Feb_1**: New arsenic speciation method with HPLC-ICP-MS
+- **Feb_2**: Study for "Jornadas INMA"
+- **Feb_3**: New publication "Pro-vegetarian dietary patterns and essential and heavy metal exposure in children of 4-5-years from the INfancia y medio Ambiente cohort (INMA)"   
+
 <span style="color:blue">**Jan 2024 [34]**</span>
 
 - **Jan_1**: New Publication: "Environmental pollution by heavy metals within the area influenced by the Tungurahua volcano eruption – Ecuador"  
@@ -199,6 +205,12 @@
 
 
 
+# <span style="color:red">**Feb 2024**</span> [35]
+
+**Feb_1**: New arsenic speciation method with HPLC-ICP-MS
+
+<img src="arsenic speciation.png" style="zoom:80%;" />
+
 <br/>
 
 ---
@@ -207,7 +219,31 @@
 
 
 
-# <span style="color:red">**Jan 2024**</span> [33]
+**Feb_2**: Study for "Jornadas INMA"
+
+<img src="Poster presentation INMA 2024.png" style="zoom:80%;" />
+
+<br/>
+
+---
+
+<br/>
+
+**Feb_3**: New publication "Pro-vegetarian dietary patterns and essential and heavy metal exposure in children of 4-5-years from the INfancia y medio Ambiente cohort (INMA)"   
+
+<img src="Provegetarian diet.png" style="zoom:80%;" />
+
+[Link](https://www.sciencedirect.com/science/article/pii/S1438463924000257)
+
+<br/>
+
+---
+
+<br/>
+
+
+
+# <span style="color:red">**Jan 2024**</span> [34]
 
 **Jan_1**: New Publication: "Environmental pollution by heavy metals within the area influenced by the Tungurahua volcano eruption – Ecuador"  
 

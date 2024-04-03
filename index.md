@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Mar 2024 [36]**</span>
+
+- **Mar_1**: PREDIMED samples measurements with ICP-MS
+
 <span style="color:blue">**Feb 2024 [35]**</span>
 
 - **Feb_1**: New arsenic speciation method with HPLC-ICP-MS
@@ -202,7 +206,21 @@
 * **Apr_1**: Start of the project
 
 
+# <span style="color:red">**Mar 2024**</span> [36]
 
+**Mar_1**: PREDIMED samples measurements with ICP-MS
+
+The first completed batch of urine sample measurements for total metal concentrations has been completed.
+
+
+<img src="Predimed samples.png" style="zoom:80%;" />
+
+
+<br/>
+
+---
+
+<br/>
 
 
 # <span style="color:red">**Feb 2024**</span> [35]

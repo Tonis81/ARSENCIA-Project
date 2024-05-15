@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Apr 2024 [37]**</span>
+
+- **Apr_1**: Borrador artículo colaborativo sobre exposión a mercurio
+
 <span style="color:blue">**Mar 2024 [36]**</span>
 
 - **Mar_1**: PREDIMED samples measurements with ICP-MS
@@ -206,15 +210,26 @@
 * **Apr_1**: Start of the project
 
 
+
+# <span style="color:red">**Mar 2024**</span> [36]
+
+**Apr_1**: Borrador artículo colaborativo sobre exposión a mercurio
+
+<img src="artículo Hg.png" style="zoom:80%;" />
+
+<br/>
+
+---
+
+<br/>
+
 # <span style="color:red">**Mar 2024**</span> [36]
 
 **Mar_1**: PREDIMED samples measurements with ICP-MS
 
 The first completed batch of urine sample measurements for total metal concentrations has been completed.
 
-
 <img src="Predimed samples.png" style="zoom:80%;" />
-
 
 <br/>
 

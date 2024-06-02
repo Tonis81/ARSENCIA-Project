@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**May 2024 [38]**</span>
+
+- **May_1**: TFM - Máster Salud Pública
+
 <span style="color:blue">**Apr 2024 [37]**</span>
 
 - **Apr_1**: Borrador artículo colaborativo sobre exposión a mercurio
@@ -208,6 +212,30 @@
 <span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
+
+
+
+<br/>
+
+---
+
+<br/>
+
+# <span style="color:red">**May 2024**</span> [38]
+
+**May_1**: TFM -Máster Salud Publica
+
+<img src="TFM_Elianny.png" style="zoom:80%;" />
+
+
+
+<img src="TFM_Obama.png" style="zoom:80%;" />
+
+<br/>
+
+---
+
+<br/>
 
 
 

@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**May 2024 [39]**</span>
+
+- **Jun_1**: Ponencia - Ciclo de conferencias "Alimentos Seguros: Una mirada a la contaminación y seguridad del consumidor"
+
 <span style="color:blue">**May 2024 [38]**</span>
 
 - **May_1**: TFM - Máster Salud Pública
@@ -221,13 +225,28 @@
 
 <br/>
 
+
+# <span style="color:red">**Jun 2024**</span> [39]
+
+**Jun_1**: Ponencia - Ciclo de conferencias "Alimentos Seguros: Una mirada a la contaminación y seguridad del consumidor"
+
+<img src="Certificado14jun.png" style="zoom:80%;" />
+
+<img src="Programa.png" style="zoom:80%;" />
+
+
+<br/>
+
+---
+
+<br/>
+
+
 # <span style="color:red">**May 2024**</span> [38]
 
 **May_1**: TFM -Máster Salud Publica
 
 <img src="TFM_Elianny.png" style="zoom:80%;" />
-
-
 
 <img src="TFM_Obama.png" style="zoom:80%;" />
 

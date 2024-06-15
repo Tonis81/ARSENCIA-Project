@@ -16,6 +16,8 @@
 
 - **Jun_1**: Ponencia - Ciclo de conferencias "Alimentos Seguros: Una mirada a la contaminación y seguridad del consumidor"
 
+- **Jun_2**: Jornadas INMA Barcelona
+
 <span style="color:blue">**May 2024 [38]**</span>
 
 - **May_1**: TFM - Máster Salud Pública
@@ -242,6 +244,22 @@
 <br/>
 
 
+**Jun_2**: Jornadas INMA Barcelona
+
+<img src="fotogrupo.png" style="zoom:80%;" />
+
+<img src="presentacionSandra.png" style="zoom:80%;" />
+
+<img src="presentacionAlex.png" style="zoom:80%;" />
+
+
+<br/>
+
+---
+
+<br/>
+
+
 # <span style="color:red">**May 2024**</span> [38]
 
 **May_1**: TFM -Máster Salud Publica
@@ -278,6 +296,7 @@ The first completed batch of urine sample measurements for total metal concentra
 
 <img src="Predimed samples.png" style="zoom:80%;" />
 
+
 <br/>
 
 ---
@@ -291,6 +310,7 @@ The first completed batch of urine sample measurements for total metal concentra
 
 <img src="arsenic speciation.png" style="zoom:80%;" />
 
+
 <br/>
 
 ---
@@ -303,11 +323,13 @@ The first completed batch of urine sample measurements for total metal concentra
 
 <img src="Poster presentation INMA 2024.png" style="zoom:80%;" />
 
+
 <br/>
 
 ---
 
 <br/>
+
 
 **Feb_3**: New publication "Pro-vegetarian dietary patterns and essential and heavy metal exposure in children of 4-5-years from the INfancia y medio Ambiente cohort (INMA)"   
 

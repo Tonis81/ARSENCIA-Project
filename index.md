@@ -12,7 +12,13 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
-<span style="color:blue">**May 2024 [39]**</span>
+<span style="color:blue">**Jul 2024 [40]**</span>
+
+- **Jul_1**: Reunión grupo CSA
+
+- **Jul_2**: Colaboración proyecto UNISALUD
+
+<span style="color:blue">**Jun 2024 [39]**</span>
 
 - **Jun_1**: Ponencia - Ciclo de conferencias "Alimentos Seguros: Una mirada a la contaminación y seguridad del consumidor"
 
@@ -220,6 +226,22 @@
 * **Apr_1**: Start of the project
 
 
+
+<br/>
+
+---
+
+<br/>
+
+
+**Jul_1**: Reunión grupo CSA
+
+<img src="Photo CSA.png" style="zoom:80%;" />
+
+
+**Jul_2**: Colaboración proyecto UNISALU
+
+<img src="Unisalud.png" style="zoom:80%;" />
 
 <br/>
 

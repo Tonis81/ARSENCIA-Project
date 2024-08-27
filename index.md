@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Aug 2024 [41]**</span>
+
+- **Aug_1**: Participation in the 36th Annual Conference of the Internacional Society for Environmental Epidemiology (ISEE2024). Poster presentation 
+
 <span style="color:blue">**Jul 2024 [40]**</span>
 
 - **Jul_1**: Reunión grupo CSA
@@ -225,6 +229,17 @@
 
 * **Apr_1**: Start of the project
 
+
+<br/>
+
+---
+
+<br/>
+
+
+**Aug_1**: Participation in the 36th Annual Conference of the Internacional Society for Environmental Epidemiology (ISEE2024). Poster presentation 
+
+<img src="Poster ISEE2024.png" style="zoom:80%;" />
 
 
 <br/>

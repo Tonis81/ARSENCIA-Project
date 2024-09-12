@@ -14,6 +14,10 @@
 
 <span style="color:blue">**Aug 2024 [41]**</span>
 
+- **Sep_1**: Participación en Conferencia Sociedad Española de Epidemiología (SEE). Presentación Alex Oncina
+
+<span style="color:blue">**Aug 2024 [41]**</span>
+
 - **Aug_1**: Participation in the 36th Annual Conference of the Internacional Society for Environmental Epidemiology (ISEE2024). Poster presentation 
 
 <span style="color:blue">**Jul 2024 [40]**</span>
@@ -229,6 +233,17 @@
 
 * **Apr_1**: Start of the project
 
+
+<br/>
+
+---
+
+<br/>
+
+
+**Sep_1**: Participación en Conferencia Sociedad Española de Epidemiología (SEE). Presentación Alex Oncina
+
+<img src="SEE.png" style="zoom:80%;" />
 
 <br/>
 

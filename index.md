@@ -12,7 +12,7 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
-<span style="color:blue">**Aug 2024 [41]**</span>
+<span style="color:blue">**Sep 2024 [42]**</span>
 
 - **Sep_1**: Participación en Conferencia Sociedad Española de Epidemiología (SEE). Presentación Alex Oncina
 

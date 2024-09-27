@@ -12,9 +12,17 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Oct 2024 [43]**</span>
+
+- **Oct_1**: Estancia en Ecuador-ESPOCH. Colaboración. Cursos.
+
 <span style="color:blue">**Sep 2024 [42]**</span>
 
 - **Sep_1**: Participación en Conferencia Sociedad Española de Epidemiología (SEE). Presentación Alex Oncina
+
+- **Sep_2**: Nueva Publicación con la Cohorte NELA
+
+- **Sep_3**: Visita de los profesores Irene y Julio del ESPOCH
 
 <span style="color:blue">**Aug 2024 [41]**</span>
 
@@ -233,6 +241,17 @@
 
 * **Apr_1**: Start of the project
 
+<br/>
+
+---
+
+<br/>
+
+**Oct_1**: Estancia en Ecuador-ESPOCH. Colaboración. Cursos.
+ 
+<img src="Curso Ecuador.png" style="zoom:80%;" />
+
+
 
 <br/>
 
@@ -244,6 +263,25 @@
 **Sep_1**: Participación en Conferencia Sociedad Española de Epidemiología (SEE). Presentación Alex Oncina
 
 <img src="SEE.png" style="zoom:80%;" />
+
+
+**Sep_2**: Nueva Publicación con la Cohorte NELA
+
+
+<img src="NELA1.png" style="zoom:80%;" />
+
+
+[Enlace](https://doi.org/10.1016/j.envres.2024.119989)
+
+
+**Sep_3**: Visita de los profesores Irene y Julio del ESPOCH
+
+
+<img src="Irene y Julio 1.png" style="zoom:80%;" />
+
+
+<img src="Irene y Julio 2.png" style="zoom:80%;" />
+
 
 <br/>
 

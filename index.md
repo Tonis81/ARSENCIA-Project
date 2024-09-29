@@ -252,7 +252,6 @@
 <img src="Curso Ecuador.png" style="zoom:80%;" />
 
 
-
 <br/>
 
 ---

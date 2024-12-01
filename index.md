@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Oct 2024 [44]**</span>
+
+- **Nov_1**: Jornadas ARSENCIA
+
 <span style="color:blue">**Oct 2024 [43]**</span>
 
 - **Oct_1**: Estancia en Ecuador-ESPOCH. Colaboración. Cursos.
@@ -240,6 +244,18 @@
 <span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
+
+<br/>
+
+---
+
+<br/>
+
+**Nov_1**: Jornadas ARSENCIA
+ 
+<img src="Jornadas ARSENCIA.png" style="zoom:80%;" />
+
+[Enlace web](https://tonis81.github.io/Jornadas_ARSENCIA_2024/)
 
 <br/>
 

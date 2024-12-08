@@ -12,7 +12,7 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
-<span style="color:blue">**Oct 2024 [44]**</span>
+<span style="color:blue">**Nov 2024 [44]**</span>
 
 - **Nov_1**: Jornadas ARSENCIA
 

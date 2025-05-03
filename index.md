@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Mar 2025 [48]**</span>
+
+- **Mar_1**: Nueva contratación a cargo del proyeto
+
 <span style="color:blue">**Feb 2025 [47]**</span>
 
 - **Feb_1**: Publicaciones
@@ -263,6 +267,17 @@
 
 <br/>
 
+
+**Mar_1**: Nueva contratación a cargo del proyeto
+ 
+<img src="Nueva contratacion.png" style="zoom:80%;" />
+
+
+<br/>
+
+---
+
+<br/>
 
 **Feb_1**: Publicaciones
  

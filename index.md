@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Feb 2025 [47]**</span>
+
+- **Feb_1**: Publicaciones
+
 <span style="color:blue">**Ene 2025 [46]**</span>
 
 - **Ene_1**: Presentación contibuciones a la conferencia ISEE-ISES2025
@@ -258,6 +262,25 @@
 ---
 
 <br/>
+
+
+**Feb_1**: Publicaciones
+ 
+<img src="Casanova.png" style="zoom:80%;" />
+
+[Enlace publicación](https://doi.org/10.1016/j.foodcont.2025.111220)
+
+<img src="Villarino.png" style="zoom:80%;" />
+
+[Enlace publicación](https://doi.org/10.1016/j.envint.2025.109347)
+
+
+<br/>
+
+---
+
+<br/>
+
 
 **Ene_1**: Presentación contibuciones a la conferencia ISEE-ISES2025
  

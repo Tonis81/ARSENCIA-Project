@@ -12,6 +12,10 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Apr 2025 [49]**</span>
+
+- **Apr_1**: Nuevo manuscript para publicación
+
 <span style="color:blue">**Mar 2025 [48]**</span>
 
 - **Mar_1**: Nueva contratación a cargo del proyeto
@@ -267,6 +271,16 @@
 
 <br/>
 
+**Apr_1**: Nuevo manuscript para publicación
+ 
+<img src="New submition.png" style="zoom:80%;" />
+
+
+<br/>
+
+---
+
+<br/>
 
 **Mar_1**: Nueva contratación a cargo del proyeto
  

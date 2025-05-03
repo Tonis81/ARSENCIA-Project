@@ -12,6 +12,11 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+
+<span style="color:blue">**Dic 2024 [45]**</span>
+
+- **Dic_1**: Resolución convocatoria ESGENT
+
 <span style="color:blue">**Nov 2024 [44]**</span>
 
 - **Nov_1**: Jornadas ARSENCIA
@@ -244,6 +249,18 @@
 <span style="color:blue">**April 2021 [1]**</span>
 
 * **Apr_1**: Start of the project
+
+<br/>
+
+---
+
+<br/>
+
+
+**Nov_1**: Resolución convocatoria ESGENT
+ 
+<img src="ESGENT.png" style="zoom:80%;" />
+
 
 <br/>
 

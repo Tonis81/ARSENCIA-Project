@@ -12,6 +12,9 @@
 
 # <span style="color:blue">**Table of content:**</span>
 
+<span style="color:blue">**Ene 2025 [46]**</span>
+
+- **Ene_1**: Presentación contibuciones a la conferencia ISEE-ISES2025
 
 <span style="color:blue">**Dic 2024 [45]**</span>
 
@@ -256,8 +259,26 @@
 
 <br/>
 
+**Ene_1**: Presentación contibuciones a la conferencia ISEE-ISES2025
+ 
+<img src="ISEE-ISES.png" style="zoom:80%;" />
 
-**Nov_1**: Resolución convocatoria ESGENT
+[Enlace web](https://www.isesisee2025.org/)
+
+Infant weaning: A transition period in dietary essential element and heavy metal/metalloid exposure - Symposia Talks
+
+Assessing statistical methods for metal mixture exposure and neuropsychological effects in children - Exposures
+
+Should Pregnant Women and Children Eat Fish? A Risk-Benefit Analysis – A Scoping Review - Food Contamination
+
+
+<br/>
+
+---
+
+<br/>
+
+**Dic_1**: Resolución convocatoria ESGENT
  
 <img src="ESGENT.png" style="zoom:80%;" />
 
